@@ -4,7 +4,7 @@ This repository contains code and pre-trained models for deep learning-based sew
 
 The models were obtained using the methods described in:
 
-> A. George, W. Shepherd, S. Tait, L. Mihaylova and S. Anderson, “A Deep Learning Benchmark Analysis of the Publicly Available WRc Dataset for Sewer Defect Classification” in *21st Computing & Control for the Water Industry Conference (CCWI)*, Sep. 2025, Sheffield, UK
+> A. George, W. Shepherd, S. Tait, L. Mihaylova, and S. Anderson, “A Deep Learning Benchmark Analysis of the Publicly Available WRc Dataset for Sewer Defect Classification” in *21st Computing & Control for the Water Industry Conference (CCWI)*, Sep. 2025, Sheffield, UK
 
 We would appreciate it if you would cite this paper if you use this repository in your research.
 
@@ -36,6 +36,6 @@ If you download a ZIP file directly from GitHub's web interface, you will only r
 
 The `single_test_image.jpg` included in this repository is extracted from a real-world sewer pipe video dataset. This dataset was collected using a mobile CCTV inspection robot at the iCAIR facility, University of Sheffield.
 
-> S. Edwards, R. Zhang, R. Worley, L. Mihaylova, J. Aitken, and S. R. Anderson, “A robust method for approximate visual robot localization in feature-sparse sewer pipes,” *Front. Robot. AI*, vol. 10, Mar. 2023.
+> S. Edwards, R. Zhang, R. Worley, L. Mihaylova, J. Aitken, and S. R. Anderson, “A robust method for approximate visual robot localization in feature-sparse sewer pipes,” *Frontiers in Robotics and AI*, vol. 10, Mar. 2023.
 
 ---
