@@ -32,7 +32,7 @@ If you download a ZIP file directly from GitHub's web interface, you will only r
     git clone https://github.com/alexgeorge13/WRc-Dataset-Classification.git
     ```
 
-### Test Sample Image Origin
+### Test Sample Image
 
 The `single_test_image.jpg` included in this repository is extracted from a real-world sewer pipe video dataset. This dataset was collected using a mobile CCTV inspection robot at the iCAIR facility, University of Sheffield.
 
